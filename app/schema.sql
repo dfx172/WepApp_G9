@@ -54,5 +54,4 @@ CREATE TABLE credentials(
 
 
 
-INSERT INTO user(username,password,salt,email) VALUES('miguelito','Aabc1234','fasfd4a6s4d','jhon.chaves@fundacionview.org');
-INSERT INTO credentials (name,user,password) VALUES ('EMAIL_APP','ejchaves@uninorte.edu.co', 'Jeca1029.');
+INSERT INTO credentials (name,user,password) VALUES ('EMAIL_APP','developmentcapstone', '$TR41NC0URS3R4$');
